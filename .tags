@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/using-bundler-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+Code Along: Using Bundler	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^# Code Along: Using Bundler$/;"	function	line:1
+Objectives	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+What are RubyGems?	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### What are RubyGems?$/;"	function	line:11
+How to Find a Gem?	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### How to Find a Gem?$/;"	function	line:27
+How to Choose the Right Gem?	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### How to Choose the Right Gem?$/;"	function	line:34
+How to install a gem?	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### How to install a gem?$/;"	function	line:65
+How to 'require' a gem	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### How to 'require' a gem$/;"	function	line:69
+How to add the gem to your Gemfile	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### How to add the gem to your Gemfile$/;"	function	line:80
+Gem Versions	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Gem Versions$/;"	function	line:95
+Gem Sources	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^## Gem Sources$/;"	function	line:131
+Gemfile	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Gemfile$/;"	function	line:156
+The Group Syntax	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### The Group Syntax$/;"	function	line:176
+The Hash Syntax	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### The Hash Syntax$/;"	function	line:190
+What is Bundler?	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### What is Bundler?$/;"	function	line:211
+The Problem	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^#### The Problem$/;"	function	line:216
+Enter bundler	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Enter bundler$/;"	function	line:226
+Code along	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^## Code along$/;"	function	line:242
+Using Bundler	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Using Bundler$/;"	function	line:244
+Anatomy of Bundler files	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Anatomy of Bundler files$/;"	function	line:249
+Gemfile	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### Gemfile$/;"	function	line:265
+config/environment.rb	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### config\/environment.rb$/;"	function	line:290
+bin/run.rb	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### bin\/run.rb$/;"	function	line:319
+require and require_relative	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^### require and require_relative$/;"	function	line:333
+Resources	/Users/manon/Development/code/using-bundler-london-web-career-031119/README.md	/^## Resources$/;"	function	line:354
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/using-bundler-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/using-bundler-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/using-bundler-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/using-bundler-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
